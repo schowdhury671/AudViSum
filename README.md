@@ -1,9 +1,15 @@
 # AudViSum: Self-Supervised Deep Reinforcement Learning for diverse Audio-Visual Summary generation
 
-Codebase for the BMVC-2021 paper "AudViSum: Self-Supervised Deep Reinforcement Learning for diverse Audio-Visual Summary generation"
+Official implementation for the BMVC-2021 paper "AudViSum: Self-Supervised Deep Reinforcement Learning for diverse Audio-Visual Summary generation"
 
 Some sample results could be found here: https://www.dropbox.com/sh/jgxw6l74m8g7ozv/AAA_wtf04jWhV_6HDrPmvSuma?dl=0
 
+For dataset please email:
+
+ ujjwal@isical.ac.in
+ schowdhury671@gmail.com
+ 
+ 
 If you find our work useful please consider citing
 
 ```
